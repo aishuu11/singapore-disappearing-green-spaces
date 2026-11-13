@@ -60,9 +60,3 @@ src/
 scripts/          Data preparation scripts
 ```
 
-## Repository information
-
-**Suggested repository name:** `singapore-disappearing-green-spaces`
-
-**Suggested GitHub description:**  
-`An interactive data story exploring how Singapore's parks, nature reserves, and developed areas have changed over time.`
