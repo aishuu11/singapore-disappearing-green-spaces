@@ -1,0 +1,44 @@
+#root {
+  min-height: 100vh;
+}
+
+.story-shell {
+  box-sizing: border-box;
+  display: grid;
+  min-height: 100vh;
+  align-content: center;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+  color: #b7c8ff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+h1 {
+  max-width: 12ch;
+  margin: 0;
+  color: #f7f8ff;
+  font-size: clamp(3.5rem, 11vw, 7rem);
+  line-height: 0.95;
+}
+
+.intro {
+  max-width: 34rem;
+  margin: 2rem 0 0;
+  color: #d3d8e8;
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+  line-height: 1.5;
+}
+
+.status {
+  margin: 3rem 0 0;
+  color: #8e98b5;
+  font-size: 0.9rem;
+}
